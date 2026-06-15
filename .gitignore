@@ -1,0 +1,19 @@
+# Local Database and Configuration space
+.recall/
+*.db
+*.db-wal
+*.db-shm
+
+# Compiled Production Binaries
+dist/
+recall
+recall-bridge
+recall.exe
+
+# Internal Blueprint & Engineering Specification
+recall_prd.md
+
+# Go specific temporary and testing tracking
+vendor/
+*.out
+*.test
