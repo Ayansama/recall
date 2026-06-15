@@ -8,7 +8,7 @@
 dist/
 recall
 recall-bridge
-recall.exe
+*.exe
 
 # Internal Blueprint & Engineering Specification
 recall_prd.md
